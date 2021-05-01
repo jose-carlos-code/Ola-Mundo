@@ -1,0 +1,11 @@
+<html>
+
+<!--documento base(mas nem tanto) do HTML5-->
+	<style>
+	</style>
+	
+	<body>
+
+	<script> </script>
+	</body>
+</html>
